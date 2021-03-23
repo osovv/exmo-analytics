@@ -1,3 +1,5 @@
+# Source: https://github.com/exmo-dev/exmo_api_lib/blob/master/rest/python/exmo3.py
+
 import hashlib
 import hmac
 import http
